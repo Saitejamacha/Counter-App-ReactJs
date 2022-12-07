@@ -1,0 +1,36 @@
+/* Write your CSS here */
+/* .main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+} */
+
+.bg-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.span {
+  color: #c20a72;
+}
+
+.head {
+  color: #c20a72;
+}
+
+.btn {
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #007bff;
+  border: 20px solid;
+  height: 70px;
+  width: 130px;
+  border-radius: 35px;
+}
